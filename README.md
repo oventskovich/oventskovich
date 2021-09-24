@@ -12,7 +12,7 @@ print('👨🏻‍💻 by day && night 😎')
 
 - 🏢 Open to work.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=oleg1995petrov&count_private=true&show_icons=true&layout=compact&border_radius=15&theme=monokai)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=oleg1995petrov&count_private=true&include_all_commits=true&show_icons=true&layout=compact&border_radius=15&theme=monokai)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oleg1995petrov&show_icons=true&&hide=swift,scss&langs_count=10&layout=compact&border_radius=15&theme=monokai)
 
 ### How to reach me:
