@@ -20,4 +20,4 @@ print('👨🏻‍💻 by day && night 😎')
 | [<img src="https://github.com/oleg1995petrov/oleg1995petrov/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/ventz/) | [<img src="https://github.com/oleg1995petrov/oleg1995petrov/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:oleg1995petrov@yandex.by)
 |:---:|:---:|
 
-<!-- https://komarev.com/ghpvc/?username=oleg1995petrov&color=green -->
+https://komarev.com/ghpvc/?username=oleg1995petrov&color=green
