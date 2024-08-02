@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there ????
 
 ```python
-print('👨🏻‍💻 by day && night 😎')
+print('??????????????? by day && night ????')
 ```
 
 ### About
@@ -13,7 +13,7 @@ print('👨🏻‍💻 by day && night 😎')
 
 ### How to reach me:
 
-| [<img src="https://github.com/oventskovich/oventskovich/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/ventz/) | [<img src="https://github.com/oventskovich/oventskovich/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:oventskovich@yandex.by) |
+| [<img src="https://github.com/oventskovich/oventskovich/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/ventz/) | [<img src="https://github.com/oventskovich/oventskovich/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:oleg1995petorv@yandex.by) |
 |:---:|:---:|
 
 ![](https://komarev.com/ghpvc/?username=oventskovich&color=green)
